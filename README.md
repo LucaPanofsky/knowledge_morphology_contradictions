@@ -1,5 +1,7 @@
-# Learning From Contradictions
+# Knowledge, Morphology and Contradictions
 
-*The Art of Learning from Contradictions* is a personal research project I began some time ago. I am using this site to compile my notes and results.
+Personal research in between social sciences, philosophy and AI. I use this repo to keep tracks of my notes.  
 
-For now, the only available resource is the following incomplete draft: https://github.com/LucaPanofsky/learning_from_contradictions/blob/main/draft.md
+- [A model of Knowledge By Resemblance](https://github.com/LucaPanofsky/knowledge_morphology_contradictions/blob/main/knowledge_by_resemblance.pdf)
+- [Resemblance based logic](https://github.com/LucaPanofsky/knowledge_morphology_contradictions/blob/main/logic-of-resemblance.pdf)
+
